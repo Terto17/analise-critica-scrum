@@ -1,2 +1,3 @@
-# analise-critica-scrum
-Análise Critica e Cases de Sucessos
+# Análise Critica sobre aplicação do Scrum - Case de Sucesso de algumas empresas.
+
+Ver PDF
